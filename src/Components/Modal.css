@@ -1,0 +1,33 @@
+h1{
+    color: rgb(237, 62, 161);
+}
+
+p{
+    color:rgb(237, 62, 161);
+}
+
+.container{
+    position: absolute;
+    display: flex;
+    background-color: rgba(1, 0, 1, 0.7);
+    width: 100%;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal{
+    width: 30rem;
+    background-color: rgb(233, 154, 154);
+    padding: 5rem;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.mynd{
+    width: 30rem;
+    height: auto;
+}
+
